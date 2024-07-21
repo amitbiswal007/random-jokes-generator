@@ -7,4 +7,8 @@
 
 # Feel free to add a Pull Request with enhancements
 
-# 
+# Web Concepts to learn via this project:
+# - How to use fetch API
+# - Basic DOM manipulation using Javascript
+# - How to use flex box in CSS
+# - How to add Shadow to a DIV
