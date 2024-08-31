@@ -1,5 +1,8 @@
 body{
     background-color: black;
+ 
+}
+.jokes-container{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,4 +18,28 @@ body{
 }
 .btn{
     box-shadow: 2px 2px;
+}
+.footer{
+  
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    
+}
+#github-img svg{
+    margin-top: 10px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    padding: 5px;
+    
+}
+
+#github-img svg:hover{
+    margin-top: 10px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    padding: 5px;
+    scale: 1.05;
+    
+    
 }
